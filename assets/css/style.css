@@ -1,0 +1,19 @@
+body {
+	background-image: url("../images/background.JPEG");
+}
+
+.jumbotron {
+	background-color: orange;
+	text-align: center;
+	font-family: 'Gravitas One', cursive;
+
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+}
+
